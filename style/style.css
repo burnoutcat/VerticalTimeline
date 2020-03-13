@@ -2,6 +2,7 @@
 	--site-background:#1A1A1A;
 	--text-bright-9:#E5E5E5;
 	--text-bright-7:#B7B7B7;
+	--text-bright-5:gray;
 	--text-primary-color:#C8343B;
 }
 
@@ -17,6 +18,9 @@
 .align-center{text-align: center;}
 .align-right{text-align: right;}
 .align-left{text-align: left;}
+
+.display-block{display: block;}
+.display-inline-block{display: inline-block;}
 
 .vertical-scroll{overflow: auto;}
 
@@ -40,6 +44,7 @@
 
 html{
 	background-color: var(--site-background);
+	min-width: 1000px;
 }
 
 body{
@@ -53,27 +58,53 @@ body{
 p{
 	color: var(--text-bright-7);
 	font-size: normal;
+	max-width: 500px;
 }
 
 h1{
 	color: var(--text-bright-9);
-	font-size: 5em;
+	font-size: 3vmax;
+	text-transform: uppercase;
+	margin: 0;
+	line-height: 2.5vmax;
 }
 
 h2{
 	color: var(--text-primary-color);
-	font-size: 3em;
+	font-size: 8vmax;
+	margin: 0;
+}
+
+span{
+	color: var(--text-primary-color);
+}
+
+small{
+	font-size: 1.5rem;
+	color: var(--text-bright-5);
+	letter-spacing: 0.2rem;
+
+}
+
+p > br{
+	content: '';
+    display: block;
+    margin: 1em;
 }
 
 /*Window Wrapper*/
 
 .slide-wrapper{
-	margin-right: 10%;
-	padding-left: 3em;
+	margin: 0 20% 0 10%;
+}
+
+#section-1 .title-container{
+	padding-top: 3em;
 }
 
 .title-container{
 	padding-top: 10%;
+	margin-bottom: 5em;
 }
 
 .detail-text{
@@ -81,12 +112,24 @@ h2{
 }
 
 .detail-image img{
-	width: 300px; 
+	width: 300px;
+	opacity: 0.5; 
+	transition: all 600ms;
+}
+
+.detail-image img:hover{
+	opacity: 0.7; 
+	transition: all 600ms;
+	cursor: pointer;
 }
 
 
-section:nth-child(odd){
-	
+section:nth-child(odd) .detail-text, section:nth-child(even) .detail-image{
+	order: 1;
+}
+
+section:nth-child(odd) .detail-image, section:nth-child(even) .detail-text{
+	order: 2;
 }
 
 section:nth-child(even){
@@ -97,15 +140,32 @@ section:nth-child(even){
 	width: 300px;
 }
 
+.fullpage-slide{
+	opacity: 0;
+	transition: all 1000ms;
+}
+
+.fullpage-slide.active{
+	opacity: 1;
+	transition: all 300ms; 
+}
+
+.fadeIn{
+	animation-delay: 500ms;
+}
+
+
+
 /*Timeline Control*/
 
 .timeline-controll{
 	text-align: right;
 	color: white;
-    position: fixed;
-    right: 20px;
-    height: 400px;
-    top: 30%;
+	position: fixed;
+	right: 20px;
+	top: 50%;
+	transform: translate(0, -50%);
+	overflow: scroll;
 }
 
 .timeline-controll ul{
@@ -113,14 +173,71 @@ section:nth-child(even){
 }
 
 .timeline-controll li{
-	cursor: pointer;
-	margin-bottom: 2em;
-	transition: all 300ms;
+    cursor: pointer;
+    font-size: calc(0.8em + 1vw);
+    font-weight: bold;
+    color: var(--text-bright-5);
+    margin-bottom: 2rem;
+    transition: all 300ms;
 }
 
 .timeline-controll li:hover{
 	color: var(--text-primary-color);
 	transition: all 300ms;
 }
+
+.timeline-controll li.active{
+	color: var(--text-primary-color);
+	font-size: 3em;
+	transition: all 300ms;
+}
+
+
+/*Slides Finetone*/
+
+#section-1 .title-container h1{
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+    line-height: initial;
+}
+#section-1 .title-container span{
+    font-size: 3em;
+    display: block;
+    margin-bottom: -1.2rem;
+    letter-spacing: initial;
+}
+
+#section-2 .title-container h1{
+	margin-top: -0.9em;
+    padding-left: 3em;
+}
+#section-2 .title-container h2{}
+
+#section-3 .title-container h1{}
+#section-3 .title-container h2{}
+
+#section-4 .title-container h1{}
+#section-4 .title-container h2{}
+
+#section-5 .title-container h1{}
+#section-5 .title-container h2{}
+
+#section-6 .title-container h1{}
+#section-6 .title-container h2{}
+
+#section-7 .title-container h1{}
+#section-7 .title-container h2{}
+
+#section-8 .title-container h1{}
+#section-8 .title-container h2{}
+
+#section-9 .title-container h1{}
+#section-9 .title-container h2{}
+
+#section-10 .title-container h1{}
+#section-10 .title-container h2{}
+
+
+
 
 

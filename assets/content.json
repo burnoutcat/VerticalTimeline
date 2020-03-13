@@ -4,14 +4,14 @@
 			"id": "section-1",
 			"year": "",
 			"image":"univers.png",
-			"title": "History of Sans Serif typefaces",
+			"title": "<small class='display-block' style='margin-bottom: -10px;'>The History of</small><span>Sans Serif</span> Typefaces",
 			"content": "One could argue that the sans serif typeface existed as far back as ancient times—by their means of execution early chiseled faces were constructed from strokes with unadorned endings. But in reality, it was the late 19th century when type designers deliberately decided to design faces that were without (sans) serifs. <br> Type designers balanced the letters by using variable stroke weights (much as serif letters are balanced). At first the letters followed the Classical Roman Capitals proportions, but later sans serifs were influenced by geometric and modernist trends. "
 		},
 		{
 			"id": "section-2",
 			"year": "1816",
 			"image":"two-line.jpg",
-			"title":"The First Sans Serif",
+			"title":"The First<br>Sans Serif",
 			"content": "Around 1816, William Caslon IV produced the first sans-serif printing type in England for the Latin alphabet, a capitals-only face under the title 'Two Lines English Egyptian', where 'Two Lines English' referred to the font's body size, which equals to about 28 points. Although it is known from its appearances in the firm's specimen books, no uses of it from the period have been found; Mosley speculates that it may have been commissioned by a specific client.<br>It is somewhat \"classical\" in style, being capitals-only, formal in design and not particularly bold (although still bolder than conventional body text fonts), appearing similar to Soane's lettering. <br> Two years later, William Thorowgood was the first to design a lowercase with his Seven Line Grotesque, introducing at the same time the word 'Grotesque'. From a design point of view these typefaces have little value, but it is interesting to note their existence. "
 		},
 		{
@@ -25,7 +25,7 @@
 			"id": "section-4",
 			"year": "1909",
 			"image":"news-gothic.png",
-			"title": "Morris Fuller Benton News Gothic",
+			"title": "Morris Fuller Benton<br>News Gothic",
 			"content": "Morris F. Benton (1872-1948) joined his father, Linn Boyd Benton, at the American Typefounders Federation in 1897. Appointed as head of type design Benton unified and improved the type library of ATF, (a merger of 23 type foundries).<br>Benton, an extremely prolific designer, is credited with over 260 typefaces— many revivals as well as original faces. He gave form to the type family concept by creating complete ranges of fonts where there only existed one weight version. (An idea possibly suggested by Robert Nelson).<br> Among his original type designs were a number of sans serif designs including Franklin Gothic (1902), and Linotype Gothic (1908). His News Gothic (1908) was a lighter version of Franklin Gothic and preceded the employment of the sans serif typefaces in the United State"
 		},
 		{

@@ -28,15 +28,15 @@ $data = get_json($filename);
 			echo "
 			<section class='fullpage-slide' id='$content->id'>
 				<div class='title-container'>
-					<h1>$content->title</h1>
 					<h2>$content->year</h2>
+					<h1>$content->title</h1>
 				</div>
 				<div class='detail-container display-flex flex-align-center'>
 					<div class='detail-text flex-stretch'>
 						<p>$content->content</p>
 					</div>
 					<div class='detail-image flex-stretch align-center'>
-						<img src='assets/images/$content->image' alt='$content->title' class='media-image'>
+						<img src='assets/images/$content->image' class='media-image'>
 					</div>		
 				</div>
 			</section>
