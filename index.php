@@ -36,7 +36,7 @@ $data = get_json($filename);
 						<p>$content->content</p>
 					</div>
 					<div class='detail-image flex-stretch align-center'>
-						<img src='assets/images/$content->image' class='media-image'>
+						<a data-fancybox='images' href='assets/images/$content->image'><img src='assets/images/$content->image' class='media-image'></a>
 					</div>		
 				</div>
 			</section>
@@ -47,7 +47,9 @@ $data = get_json($filename);
 	 	</div>
 	</div>
 
-	<div class="timeline-controll">
+	<!-- Timeline-controll -->
+
+	<div class="timeline-controll animated fadeIn delay-1s">
 		<ul>
 			<li class="control" id="control-1">START</li>
 			<li class="control" id="control-2">1816</li>
@@ -56,11 +58,12 @@ $data = get_json($filename);
 			<li class="control" id="control-5">1926</li>
 			<li class="control" id="control-6">1927</li>
 			<li class="control" id="control-7">1957</li>
-			<li class="control" id="control-8">1957</li>
+			<li class="control" id="control-8" style="display: none;">1957</li>
 			<li class="control" id="control-9">1988</li>
 			<li class="control" id="control-10">2000</li>
 		</ul>
 	</div>
+
 
 
 	

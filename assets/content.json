@@ -3,70 +3,70 @@
 		{
 			"id": "section-1",
 			"year": "",
-			"image":"univers.png",
-			"title": "<small class='display-block' style='margin-bottom: -10px;'>The History of</small><span>Sans Serif</span> Typefaces",
+			"image":"univers.webp",
+			"title": "<small class='display-block' style='margin-bottom: -10px;'>The History of</small><span>Sans Serif</span> <b>Typefaces</b>",
 			"content": "One could argue that the sans serif typeface existed as far back as ancient times—by their means of execution early chiseled faces were constructed from strokes with unadorned endings. But in reality, it was the late 19th century when type designers deliberately decided to design faces that were without (sans) serifs. <br> Type designers balanced the letters by using variable stroke weights (much as serif letters are balanced). At first the letters followed the Classical Roman Capitals proportions, but later sans serifs were influenced by geometric and modernist trends. "
 		},
 		{
 			"id": "section-2",
 			"year": "1816",
-			"image":"two-line.jpg",
+			"image":"two-line.webp",
 			"title":"The First<br>Sans Serif",
 			"content": "Around 1816, William Caslon IV produced the first sans-serif printing type in England for the Latin alphabet, a capitals-only face under the title 'Two Lines English Egyptian', where 'Two Lines English' referred to the font's body size, which equals to about 28 points. Although it is known from its appearances in the firm's specimen books, no uses of it from the period have been found; Mosley speculates that it may have been commissioned by a specific client.<br>It is somewhat \"classical\" in style, being capitals-only, formal in design and not particularly bold (although still bolder than conventional body text fonts), appearing similar to Soane's lettering. <br> Two years later, William Thorowgood was the first to design a lowercase with his Seven Line Grotesque, introducing at the same time the word 'Grotesque'. From a design point of view these typefaces have little value, but it is interesting to note their existence. "
 		},
 		{
 			"id": "section-3",
 			"year": "1896",
-			"image":"akz.png",
+			"image":"akz.webp",
 			"title": "Akzidenz-Grotesk",
 			"content": "Considered the original and most influential sans serif “Accidenz-Grotes” was first released by the Berthold type foundry in 1896. The design originates from Royal Grotesk light by Ferdinand Theinhardt (1820-1909), a punch-cutter and type designer whose innovations laid the foundation for modernist sans serif typefaces. (Berthold’s specimen booklet referenced Akzidenz-Grotesk as Royal-Grotesk).<br> The italic is nothing more than a slanted version of the roman.The strange thing is that this slanted roman became a sort of standard for sans italics, even today. Typefaces such as News Gothic (1908) and Helvetica all have slanted romans. Even the great type designer Adrian Frutiger made slanted romans with his sans serif designs."
 		},
 		{
 			"id": "section-4",
 			"year": "1909",
-			"image":"news-gothic.png",
+			"image":"news-gothic.webp",
 			"title": "Morris Fuller Benton<br>News Gothic",
 			"content": "Morris F. Benton (1872-1948) joined his father, Linn Boyd Benton, at the American Typefounders Federation in 1897. Appointed as head of type design Benton unified and improved the type library of ATF, (a merger of 23 type foundries).<br>Benton, an extremely prolific designer, is credited with over 260 typefaces— many revivals as well as original faces. He gave form to the type family concept by creating complete ranges of fonts where there only existed one weight version. (An idea possibly suggested by Robert Nelson).<br> Among his original type designs were a number of sans serif designs including Franklin Gothic (1902), and Linotype Gothic (1908). His News Gothic (1908) was a lighter version of Franklin Gothic and preceded the employment of the sans serif typefaces in the United State"
 		},
 		{
 			"id": "section-5",
 			"year": "1926",
-			"image":"gill-sans.png",
+			"image":"gill-sans.webp",
 			"title": "Gill Sans",
 			"content": "Both Gill and Johnston were aware that while sans-serif capitals are not difficult to draw, it is the detailing of the lower-case which presents the problems. Gill admitted that his design was modeled on Edward Johnston's London Transport alphabet, with which he had given considerable assistance; but he improved upon it in detail. He kept, and strengthened, the classical proportions, and the eye-glass g, and introduced his own favorite curve-tailed R.<br>The early drawings differ considerably from the type as cut, and Monotype was responsible for many of the improvements. When the drawings of the capitals were first sent to the works in July 1927, Pierpont wrote to Burch, 'I can see nothing in this design to recommend it, and much that is objectionable"
 		},
 		{
 			"id": "section-6",
 			"year": "1927",
-			"image":"futura.png",
+			"image":"futura.webp",
 			"title": "Futura",
 			"content": "Paul Renner was a book artist and member of the influential Deutsche Werkbund group. During the 1920's he embraced the avant garde of modernism and made acquaintances with typographers Jan Tschichold and George Trump.<br>Renner was unsuccessful when first attempting to devise an alphabet entirely composed of geometric shapes, circles and lines. He resolved his vision in the design of Futura (1927) with a stroke thickness that had slight thickenings and narrowing for optical proportion.<br>The subtlety of the design in Futura surely enhanced its appeal: it seemed to be at ease with itself, not suffering under a rationalized principle of construction like many subsequent geometric typefaces (for instance Avant Garde Gothic1970)."
 		},
 		{
 			"id": "section-7",
 			"year": "1957",
-			"image":"helvetica.png",
+			"image":"helvetica.webp",
 			"title": "Helvetica",
 			"content": "Helvetica or Neue Haas Grotesk is a widely used sans-serif typeface developed in 1957 by Swiss typeface designer Max Miedinger with input from Eduard Hoffmann.<br>Helvetica is a neo-grotesque or realist design, one influenced by the famous 19th century typeface Akzidenz-Grotesk and other German and Swiss designs. Its use became a hallmark of the International Typographic Style that emerged from the work of Swiss designers in the 1950s and 60s, becoming one of the most popular typefaces of the 20th century.[3] Over the years, a wide range of variants have been released in different weights, widths, and sizes, as well as matching designs for a range of non-Latin alphabets. Notable features of Helvetica as originally designed include a high x-height, the termination of strokes on horizontal or vertical lines and an unusually tight spacing between letters, which combine to give it a dense, solid appearance."
 		},
 		{
 			"id": "section-8",
 			"year": "1957",
-			"image":"univers.png",
+			"image":"univers.webp",
 			"title": "Univers",
 			"content": "Univers (French pronunciation: [ynivɛʁ]) is the name of a large sans-serif typeface family designed by Adrian Frutiger and released by his employer Deberny & Peignot in 1957. Classified as a neo-grotesque sans-serif, one based on the model of nineteenth-century German typefaces such as Akzidenz-Grotesk, it was notable for its availability from the moment of its launch in a comprehensive range of weights and widths. The original marketing for Univers deliberately referenced the periodic table to emphasise its scope.<br>Univers was one of the first typeface families to fulfil the idea that a typeface should form a family of consistent, related designs. Past sans-serif designs such as Gill Sans had much greater differences between weights, while loose families such as American Type Founders' Franklin Gothic family often were advertised under different names for each style, to emphasise that they were not completely matching. By creating a matched range of styles and weights, Univers allowed documents to be created in one consistent typeface for all text, making it easier to artistically set documents in sans-serif type. This matched the desire among practitioners of the \"Swiss style\" of typography for neutral sans-serif typefaces avoiding artistic excesses."
 		},
 		{
 			"id": "section-9",
 			"year": "1988",
-			"image":"avenir.png",
+			"image":"avenir.webp",
 			"title": "Avenir",
 			"content": "Avenir is a geometric sans-serif typeface designed by Adrian Frutiger in 1987 and released in 1988 by Linotype GmbH.<br>The word avenir is French for \"future\". As the name suggests, the family takes inspiration from the geometric style of sans-serif typeface developed in the 1920s that took the circle as a basis, such as Erbar and Futura. Frutiger intended Avenir to be a more organic interpretation of the geometric style, more even in colour and suitable for extended text, with details recalling more traditional typefaces such as the two-storey 'a' and 't' with a curl at the bottom, and letters such as the 'o' that are not exact, perfect circles but optically corrected."
 		},
 		{
 			"id": "section-10",
 			"year": "2000",
-			"image":"gotham.png",
+			"image":"gotham.webp",
 			"title": "Gotham",
 			"content": "Gotham is a geometric sans-serif typeface family designed by American type designer Tobias Frere-Jones and released from 2000. Gotham's letterforms were inspired by examples of architectural signage of the mid-twentieth century. Gotham has a relatively broad design with a reasonably high x-height and wide apertures.<br>Since creation, Gotham has been highly visible due to its appearance in many notable places.This has included Barack Obama's 2008 presidential campaign, Michigan State University branding, and the 2016 federal election campaign of the Australian Labor Party. The font has also been used on the cornerstone of the One World Trade Center, the tower built on the site of the former World Trade Center in New York. It is also the current font used in MPAA title cards for film trailers in the U.S. <br>Developed for professional use, Gotham is an extremely large family, featuring four widths, eight weights, and separate designs for screen display and a rounded version. It is published by Hoefler & Co., the company of Frere-Jones' former business partner Jonathan Hoefler."
 		}
